@@ -1,0 +1,20 @@
+Download ka script alag rahega
+--> telegram_group_name_csv or
+--> downloaded file must be not stored in system rather in storJ for 90 days
+--> same filename while downloading
+--> pyspark for fast download
+--> StorJ aur pyspark
+
+Elastic search
+
+--> read file from storJ
+--> cleaning and elactic serach index and that should be fast 
+--> changed the name of the file
+
+don't know file size for indexing and storing
+
+-->create a script  and  API flask
+
+Important in Indexing
+Format
+1) File name - format name_file
